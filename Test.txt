@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this new file added
 hi from sunil kumar
+=======
+this new file added
+>>>>>>> parent of b5d5a1c (sunil added)
